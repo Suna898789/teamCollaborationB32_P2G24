@@ -1,6 +1,6 @@
 package week1;
 
-public class DivWithoutOper {
+public class DivWithoutOper_has {
 
     public static void divWithoutOperator(int num1, int num2){
 
