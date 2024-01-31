@@ -1,6 +1,6 @@
 package week1;
 
-public class FinRa {
+public class FinRa_has {
 
     public static void finra(int n) {
         for (int i = 1; i <= n; i++) {
