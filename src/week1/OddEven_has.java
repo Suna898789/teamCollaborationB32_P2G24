@@ -1,6 +1,6 @@
 package week1;
 
-public class OddEven {
+public class OddEven_has {
 
 
     public static void identify(int number){
