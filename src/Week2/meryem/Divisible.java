@@ -1,7 +1,7 @@
 //** created by Maryam 
 
 
-package Week2.mery.meryem;
+package Week2.meryem;
 
 import java.util.ArrayList;
 import java.util.HashMap;
