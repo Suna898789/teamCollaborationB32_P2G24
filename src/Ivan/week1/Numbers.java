@@ -1,4 +1,4 @@
-package week_1;
+package Ivan.week1;
 
 public class Numbers {
     public static void main(String[] args) {
