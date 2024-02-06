@@ -1,4 +1,4 @@
-package src.week1;
+package src.week1.Elmehdi;
 
 public class DivideWithoutOperator {
 

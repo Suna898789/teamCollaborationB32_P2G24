@@ -1,4 +1,4 @@
-package src.week2;
+package src.week2.Elmehdi;
 
 public class SwapWithoutThirdVariable {
 
