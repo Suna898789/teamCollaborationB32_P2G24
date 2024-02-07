@@ -1,7 +1,7 @@
 //** created by Maryam 
 
 
-package week1;
+package week1.meryem;
 
 public class NumWithoutDivision {
 
