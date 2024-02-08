@@ -31,7 +31,7 @@ public class DivisibleBy3By5By15_kelly {
             }
 
 
-            // -> All elements into the divisible by 3
+            // -> All elements divisible by 3
             if (each % 3 == 0 && each % 15 != 0) {
                 divisibleBy3.add(each);
             }
