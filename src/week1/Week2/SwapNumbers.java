@@ -1,6 +1,6 @@
 //** created by Maryam 
 
-package week1.meryem;
+package week1.Week2;
 
 public class SwapNumbers {
 
