@@ -2,13 +2,10 @@ package week3.Elmehdi;
 
 public class PrimeNumber {
     public static void main(String[] args) {
-        int num = 29;
-        boolean isPrime = isPrime(num);
 
-        if (isPrime)
-            System.out.println(num + " is a prime number.");
-        else
-            System.out.println(num + " is not a prime number.");
+        System.out.println(isPrime(2));
+
+
     }
 
     private static boolean isPrime(int num) {
