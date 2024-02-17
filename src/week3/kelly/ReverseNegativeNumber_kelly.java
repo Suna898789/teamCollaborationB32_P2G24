@@ -1,4 +1,4 @@
-package week3;
+package week3.kelly;
 
 public class ReverseNegativeNumber_kelly {
     public static int reverseNegativeNumber(int num) {
