@@ -1,10 +1,9 @@
 //** created by Maryam 
 
 
-package Week2.meryem;
+package week2.meryem;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.Map;
 
