@@ -1,4 +1,4 @@
-package luna.week1;
+package main.java.haden.week_01;
 
 public class Q1 {
 
