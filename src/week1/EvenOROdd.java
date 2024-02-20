@@ -1,3 +1,5 @@
+package week1;
+
 public class EvenOROdd {
     public static void oddOrEven(int number){
         if (number%2==0){
